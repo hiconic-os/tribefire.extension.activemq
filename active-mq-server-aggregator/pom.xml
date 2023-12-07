@@ -27,7 +27,7 @@ You should have received a copy of the GNU Lesser General Public License along w
         </license>
     </licenses>
     <artifactId>active-mq-server-aggregator</artifactId>
-    <version>3.0.4</version>
+    <version>3.0.5</version>
     <dependencies>
         <dependency>
             <groupId>tribefire.extension.activemq</groupId>
