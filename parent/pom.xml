@@ -16,7 +16,7 @@ limitations under the License.
     <modelVersion>4.0.0</modelVersion>
     <groupId>tribefire.extension.activemq</groupId>
     <artifactId>parent</artifactId>
-    <version>3.0.10</version>
+    <version>3.0.11</version>
     <packaging>pom</packaging>
     <properties>
         <java.version>1.8</java.version>
