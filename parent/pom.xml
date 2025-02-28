@@ -27,8 +27,8 @@ limitations under the License.
         <V.com.braintribe.wire>[1.0,1.1)</V.com.braintribe.wire>
         <V.tribefire.cortex>[3.0,3.1)</V.tribefire.cortex>
         <V.tribefire.setup.classic.env>[3.0,3.1)</V.tribefire.setup.classic.env>
-        <V.com.fasterxml.jackson.core>2.13.3</V.com.fasterxml.jackson.core>
-        <V.com.google.guava>31.1-jre</V.com.google.guava>
+        <V.com.fasterxml.jackson.core>2.18.2</V.com.fasterxml.jackson.core>
+        <V.com.google.guava>33.4.0-jre-jre</V.com.google.guava>
         <V.commons-logging>1.2</V.commons-logging>
         <V.javax.jms>1.1</V.javax.jms>
         <V.javax.servlet>3.1.0</V.javax.servlet>
